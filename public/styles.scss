@@ -1,0 +1,19 @@
+body {
+    margin: 10px;
+
+    header {
+        background: #03a9f4;
+
+        .logo {
+            color: #fff;
+            font-size: 40px;
+            font-family: 'Anton';
+            text-align: center;
+        }
+
+        input {
+            font-size: 20px;
+            margin:20px 0px;
+        }
+    }
+}
